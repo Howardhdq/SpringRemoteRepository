@@ -7,6 +7,7 @@
 <title>Submission Response</title>
 </head>
 <body>
+
 	<h1>Contact Administration Form</h1>
 
 	<h2>${responseMessage}</h2>

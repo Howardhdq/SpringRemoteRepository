@@ -7,6 +7,7 @@
 <title>Contact Administration</title>
 </head>
 <body>
+
 <h1>Contact Administration</h1>
 <form action="/DynamicWebSpringMVCProject/submitadminform" method="post">
 <p> Name: <input type = "text" name = "contactName" />
