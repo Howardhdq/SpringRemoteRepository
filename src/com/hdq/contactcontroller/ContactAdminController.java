@@ -28,5 +28,6 @@ public class ContactAdminController {
 		model.addObject("responseMessage", "Submission is Successful! The name is: " + name +" and the phone is " + phone + ".");
 
 		return model;
+
 	}
 }
